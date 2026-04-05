@@ -82,9 +82,3 @@ Please make sure to update tests or documentation appropriately if any changes a
 
 ## 📄 License
 This project is licensed. Please see the `LICENSE` file for more details.
-
-## 🙏 Acknowledgements
-This website was initially designed and developed from scratch by the talented students of IIIT Vadodara.
-- **Design & Core Development**: Mofid Ansari, Pratyush Singh, Saurabh Jain.
-- **Supporting Developers**: RajuKoushik, Kamal Awasthi, Avi Aryan.
-- **Contributors**: Harish Krupo, Shalinee Singh, Mayank Maurya, Navneet Nandan, Prem Chand Saini, Unni Rajendra, Ravi Kishan Jha, Ankit Kumar.
